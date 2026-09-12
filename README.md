@@ -136,6 +136,15 @@ The browser interface communicates with the Node.js backend, which connects to t
 ```text
 WEB-O-TRON-2000/
 │
+├── assets/
+│   └── web-o-tron-banner.png
+│
+├── screenshots/
+│   ├── s1.jpg
+│   ├── s2.jpg
+│   ├── s3.jpg
+│   └── s4.jpg
+│
 ├── public/
 │   └── index.html
 │
@@ -258,31 +267,17 @@ The project intentionally combines these disciplines to create something whose p
 
 ## Screenshots
 
-Add project screenshots to the `screenshots/` folder and place them here.
+### WEB-O-TRON 2000™ Main Interface
+![WEB-O-TRON Main Interface](screenshots/s1.jpg)
 
-Recommended screenshots:
+### THE INTERNET
+![THE INTERNET](screenshots/s2.jpg)
 
-```text
-screenshots/
-├── internet.png
-├── search.png
-├── arcade.png
-├── ai.png
-├── radio.png
-└── desktop.png
-```
+### Video Portal
+![WEB-O-TRON Video Portal](screenshots/s3.jpg)
 
-Example:
-
-![WEB-O-TRON Internet](screenshots/internet.png)
-
-![Wrong Search](screenshots/search.png)
-
-![Mini Arcade](screenshots/arcade.png)
-
-![AI Assistant](screenshots/ai.png)
-
-![Internet Radio](screenshots/radio.png)
+### Wrong Search Results
+![Wrong Search Results](screenshots/s4.jpg)
 
 # Project Demo
 
