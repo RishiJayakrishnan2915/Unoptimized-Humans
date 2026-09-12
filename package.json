@@ -1,0 +1,17 @@
+{
+  "name": "web-o-tron-2000",
+  "version": "2.0.0",
+  "private": true,
+  "description": "WEB-O-TRON 2000 \u2014 a deliberately useless Internet ecosystem.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "dotenv": "^16.4.7"
+  }
+}
