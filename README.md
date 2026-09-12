@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="1280" alt="WEB-O-TRON 2000" src="assets/web-o-tron-banner.png">
+  <img width="1280" alt="WEB-O-TRON 2000" src="./assets/web-o-tron-banner.png">
 </p>
 
 # WEB-O-TRON 2000™ 🌐💾
@@ -139,11 +139,11 @@ WEB-O-TRON-2000/
 ├── assets/
 │   └── web-o-tron-banner.png
 │
-├── screenshots/
-│   ├── s1.jpg
-│   ├── s2.jpg
-│   ├── s3.jpg
-│   └── s4.jpg
+├── screenshot/
+│   ├── Screenshot 2026-09-12 092301.png
+│   ├── Screenshot 2026-09-12 092332.png
+│   ├── Screenshot 2026-09-12 092539.png
+│   └── Screenshot 2026-09-12 092609.png
 │
 ├── public/
 │   └── index.html
@@ -267,17 +267,19 @@ The project intentionally combines these disciplines to create something whose p
 
 ## Screenshots
 
+The screenshots below are loaded directly from the repository, so they display automatically when the README is opened.
+
 ### WEB-O-TRON 2000™ Main Interface
-![WEB-O-TRON Main Interface](screenshots/s1.jpg)
+<img src="./screenshot/Screenshot%202026-09-12%20092301.png" alt="WEB-O-TRON 2000 Main Interface" width="100%">
 
 ### THE INTERNET
-![THE INTERNET](screenshots/s2.jpg)
+<img src="./screenshot/Screenshot%202026-09-12%20092332.png" alt="THE INTERNET" width="100%">
 
 ### Video Portal
-![WEB-O-TRON Video Portal](screenshots/s3.jpg)
+<img src="./screenshot/Screenshot%202026-09-12%20092539.png" alt="WEB-O-TRON Video Portal" width="100%">
 
 ### Wrong Search Results
-![Wrong Search Results](screenshots/s4.jpg)
+<img src="./screenshot/Screenshot%202026-09-12%20092609.png" alt="Wrong Search Results" width="100%">
 
 # Project Demo
 
