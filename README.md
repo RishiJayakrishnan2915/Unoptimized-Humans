@@ -1,5 +1,6 @@
-<img width="1280" height="640" alt="WEB-O-TRON 2000" src="assets/web-o-tron-banner.png" />
-
+<p align="center">
+  <img width="1280" alt="WEB-O-TRON 2000" src="assets/web-o-tron-banner.png">
+</p>
 
 
 # [Project Name] 🎯
